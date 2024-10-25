@@ -13,7 +13,7 @@ Clone the repository:
 bash
 
 Copy code
-git clone https://github.com/SwadhinDwibedy/unit-converter-app.git
+git clone https://github.com/SwadhinDwibedy/Unit-Converter.git
 
 Open the project in Android Studio.
 Build and run the app on an Android device or emulator.
